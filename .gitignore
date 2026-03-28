@@ -1,0 +1,6 @@
+node_modules/
+.env
+reminders.db
+reminders.db-wal
+reminders.db-shm
+*.log
